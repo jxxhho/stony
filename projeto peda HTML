@@ -16,7 +16,22 @@
         <option>VOLEI</option>
         <option>FUTEBOL</option>
         <option>BASQUETE</option>
-      </select>
+     </select>
+     </fieldset>
+     </fieldset>
+     <legend></legend>
+
+     </feildset>
+     </fieldset>
+     <legend></legend>
+
+     </fieldset>
+     </fieldset>
+     <legend></legend>
+
     </fieldset>
+    </fieldset>
+    <legend></legend>
+
   </body>
 </html>
